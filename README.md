@@ -10,6 +10,6 @@ To use this material, please do the following:
 
 All coding samples / lab exercises are available in separate repositories:
 * Cognitive Services HOL:
-  * Download the [source code (zip) file](https://github.com/Maarten-Work/VBC-ACS-HOL/releases/tag/v1.0-init)
+  * Download the [source code (zip) file](https://github.com/Maarten-Work/VBC-ACS-HOL/archive/v1.0-init.zip)
   * Extract it in the C:\Bootcamp folder
   * Open the solution in Visual Studio 2017
